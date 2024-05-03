@@ -21,17 +21,28 @@ Model Evaluation: Evaluation metrics used to assess the performance of the churn
 Conclusion: Summary of findings and potential next steps for further improvement.
 # Usage
 Setup: Instructions for setting up Google Colab environment and importing necessary libraries.
+
 Data Loading: Loading the dataset into the notebook environment.
+
 Data Exploration: Exploring the dataset to understand its structure and characteristics.
+
 Preprocessing: Cleaning, transforming, and preparing the data for modeling.
+
 Model Training: Training different machine learning models on the preprocessed data.
+
 Model Evaluation: Evaluating the performance of the trained models using appropriate metrics.
-Deployment: Steps to deploy the final model for making predictions.
+
 # Requirements
 Python 3.x
+
 Google Colab (or Jupyter Notebook)
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib
+
 Seaborn
