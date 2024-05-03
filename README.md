@@ -5,12 +5,19 @@ This notebook demonstrates how to build a churn prediction model using machine l
 
 # Contents
 Introduction: Brief overview of the project and its objectives.
+
 Dataset: Description of the dataset used for training the model.
+
 Data Preprocessing: Steps taken to clean and prepare the dataset for modeling.
+
 Exploratory Data Analysis (EDA): Analysis of the dataset to gain insights into the churn behavior and underlying patterns.
+
 Feature Engineering: Creation of new features or transformation of existing features to improve model performance.
+
 Model Building: Implementation of ANN algorithm to predict churn.
+
 Model Evaluation: Evaluation metrics used to assess the performance of the churn prediction model.
+
 Conclusion: Summary of findings and potential next steps for further improvement.
 # Usage
 Setup: Instructions for setting up Google Colab environment and importing necessary libraries.
