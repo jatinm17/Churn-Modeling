@@ -6,14 +6,13 @@ A web application built with Streamlit to predict customer churn using a pre-tra
 
 - **User-Friendly Interface**: Intuitive UI for easy interaction.
 - **Real-Time Predictions**: Instant churn predictions based on user inputs.
-- **Dynamic Visualizations**: Interactive charts using Plotly and Altair.
 - **Tailored Recommendations**: Personalized suggestions to retain customers.
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/jatinm17/Churn-Modeling
+    git clone https://github.com/your-username/customer-churn-prediction.git
     cd customer-churn-prediction
     ```
 
@@ -49,10 +48,9 @@ A web application built with Streamlit to predict customer churn using a pre-tra
 
 - Geography, Gender, Age, Credit Score, Balance, Estimated Salary, Tenure, Number of Products, Has Credit Card, Is Active Member.
 
-## Visualization and Recommendations
+## Deployment
 
-- Interactive charts to visualize input data.
-- Recommendations based on churn probability.
+The application is deployed and accessible at: [Deployment Link](https://jatinm17-churn-modeling-app-5jzdza.streamlit.app/)
 
 ## License
 
