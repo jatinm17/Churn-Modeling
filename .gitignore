@@ -1,2 +1,6 @@
 venv/
 logs
+scaler.pkl
+onehot_encoder_geo.pkl
+label_encoder_gender.pkl
+model.h5
